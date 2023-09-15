@@ -29,7 +29,7 @@ Whether you're a data wizard or new to the hackathon scene, there's something fo
 In this repository, you will find all the technical information and tools you need to master our challenge. 
 You can find more information about our partners and us at https://www.bit.admin.ch/bit/en/home/themes/hackzurich/workshop.html .
 
-Make sure to attend our upcoming workshop to deep dive into the Swiss Road Sensor data and gain expert insights from Lukas AmbÃ¼hl of Transcality and ETH Zurich. 
+Make sure to attend our upcoming workshop to deep dive into the Swiss Road Sensor data and gain expert insights from Lukas Ambühl of Transcality and ETH Zurich. 
 
 **You can reach us in Discord [Channel #06-bit](https://discordapp.com/channels/1118186310478336011/1143111866680348722).**
 
