@@ -14,13 +14,13 @@
 
 
 
-> Embrace this unique moment, innovate boldly, and most importantly, enjoy every step of the journey!
+> Embrace this unique moment, innovate boldly, and most importantly, enjoy every step of the journey!🚀🛣️
 
 
 
 
 
-# Welcome Hackers!
+# Welcome Hackers!🚀
 
 We're thrilled to have you here for the challenge #6 . This is your chance to reshape the future of Swiss commuting by developing predictive models and user-centric solutions. 
 
@@ -88,7 +88,7 @@ As you embark on this journey of data exploration, analysis, and prediction, we 
 
 **TimeStamp** : The time of the measurement . The data are collected once per minute and each CSV file contain the values of all the sensors at this moment
 
-**CarFlow | LorryFlow | AnyFlow** : Number of Cars|Lorry|Any(other unrecognised type of vehicles or Motocycle ) in the last minute. This value can be null if the sensor was offline . 
+**CarFlow | LorryFlow | AnyFlow** : Calculated Flow of Cars|Lorry|Any(other unrecognised type of vehicles or Motocycle ) in the last minute [Vehicle/Hours]. This value can be null if the sensor was offline . 
 
 **CarSpeed | LorrySpeed | AnySpeed** : Speed Average of Cars|Lorry|Any(other unrecognised type of vehicles  or Motocycle ) in the last minute. This value can be null if the sensor was offline . 
 
